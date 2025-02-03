@@ -5,6 +5,12 @@
 }
 
 :root {
+    --font-family: 'Inter', sans-serif;
+    --title: 700 1.5rem/2 var(--font-family);
+    --label: 600 1rem/1.25 var(--font-family);
+    --paragraph: 500 1rem/1.25 var(--font-family);
+    --link: 500 0.9rem/1 var(--font-family);
+
     --background-primary: #F4F5FB;
     --background-secondary: #FFFFFF;
 
